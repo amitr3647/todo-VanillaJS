@@ -1,0 +1,8 @@
+.taskList{
+    display: flex;
+    margin: 1rem;
+}
+
+.deleteBtn{
+    margin-left: 3rem;
+}
